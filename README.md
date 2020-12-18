@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/UjZqgQ6' title='Android Simple Todo Demo' width='' alt='Android Simple Todo Demo' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
 
